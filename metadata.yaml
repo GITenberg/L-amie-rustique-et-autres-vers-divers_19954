@@ -1,0 +1,28 @@
+_repo: L-amie-rustique-et-autres-vers-divers_19954
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Tour d'Albenas, François Bérenger de
+    aliases:
+    - d'Albenas, François Bérenger de La Tour
+    - La Tour d'Albenas, Francois Berenger de
+    gutenberg_agent_id: '8985'
+    url: http://www.gutenberg.org/2009/agents/8985
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19954'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: L'amie rustique et autres vers divers
+url: http://www.gutenberg.org/ebooks/19954
