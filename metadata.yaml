@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8985'
     url: http://www.gutenberg.org/2009/agents/8985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19954#L-amie-rustique-et-autres-vers-divers
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2006-11-28'
 gutenberg_type: Text
